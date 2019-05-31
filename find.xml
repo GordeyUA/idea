@@ -14,9 +14,10 @@
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>post.php</mask>
     <mask>*Api.php</mask>
     <mask>*Model.js</mask>
+    <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
